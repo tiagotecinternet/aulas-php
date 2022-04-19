@@ -57,5 +57,6 @@ Maria       |   10      | Rio de Janeiro
 ## Emoji
 
 :heart:
-
 :star:
+
+♥
